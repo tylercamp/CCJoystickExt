@@ -1,0 +1,9 @@
+{
+	"name": "controller-ext",
+	"version": "1.0.0",
+	"description": "Adds gamepad bindings on L3 and R3 to easily swap elements",
+	"module": false,
+	"prestart": "mod.js",
+	"ccmodDependencies": {
+	}
+}
