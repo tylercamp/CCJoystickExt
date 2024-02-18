@@ -1,0 +1,10 @@
+{
+	"id": "CCJoystickExt",
+	"version": "1.0.1",
+	"title": "CCJoystickExt",
+	"description": "Adds gamepad bindings on L3 and R3 to easily swap elements",
+    "repository": "https://github.com/tylercamp/CCJoystickExt",
+    "tags": ["QoL"],
+    "authors": "tylercamp",
+    "prestart": "mod.js"
+}
